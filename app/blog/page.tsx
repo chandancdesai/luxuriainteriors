@@ -52,7 +52,7 @@ export default function BlogPage() {
     },
     {
       id: 6,
-      title: 'Wedding Trends: What's Hot in 2025',
+      title: 'Wedding Trends: What&apos;s Hot in 2025',
       excerpt: 'The latest trends in wedding design and planning...',
       date: 'March 3, 2025',
       author: 'Michael Chen',
