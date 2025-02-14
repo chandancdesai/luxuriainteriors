@@ -47,7 +47,7 @@ export default function BlogPage() {
       excerpt: 'Creative ideas for making the most of limited living spaces...',
       date: 'March 5, 2025',
       author: 'Sarah Johnson',
-      image: 'https://images.unsplash.com/photo-1617104666298-550a8cdf9a39?q=80&w=800',
+      image: 'https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?q=80&w=800',
       category: 'Interior Design',
     },
     {
