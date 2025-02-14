@@ -11,7 +11,7 @@ export default function Home() {
           src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=2000"
           alt="luxuria Interior"
           fill
-          className="object-cover"
+          className="object-cover transition-transform duration-300 group-hover:scale-110"
           priority
         />
         <div className="absolute inset-0 bg-black/40" />
@@ -62,7 +62,7 @@ export default function Home() {
                     src={service.image}
                     alt={service.title}
                     fill
-                    className="object-cover"
+                    className="object-cover transition-transform duration-300 group-hover:scale-110"
                   />
                 </div>
                 <div className="p-6">
